@@ -1,4 +1,4 @@
-# Week 01 – GNS3 Introduction (COIT20261)
+# Week 01 – GNS3 Introduction
 
 ## Overview
 This week I installed the required software and completed the basic GNS3 setup task. The goal was just to confirm everything is working before starting the real networking labs.
@@ -12,6 +12,10 @@ This week I installed the required software and completed the basic GNS3 setup t
 
 ## Commands used
 
+```
+ifconfig eth0 10.10.1.1 netmask 255.255.255.0 up
+ip address show
+```
 
 ## Screenshot 1 – Network Topology
 <img width="1360" height="656" alt="Week01-Network-Topology png" src="https://github.com/user-attachments/assets/6da53326-a8e6-4e24-ae4c-510a224c321b" />
