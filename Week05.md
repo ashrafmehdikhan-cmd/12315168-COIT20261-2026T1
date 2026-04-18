@@ -37,7 +37,10 @@ The screenshot of the full network topology is shown below.
 After configuring VLANs and router sub‑interfaces, hosts in the same VLAN could communicate.  
 Inter‑VLAN communication was successful through the router.
 
-<img width="1365" height="716" alt="ping-12315168" src="https://github.com/user-attachments/assets/ffca5a9f-7176-424d-be9a-407edef4d5b1" />
+<img width="857" height="491" alt="1-router-12315168" src="https://github.com/user-attachments/assets/fcab0a34-659a-4aed-a250-6215ce1dada1" />
+
+<img width="1362" height="707" alt="2-ports-tags-12315168" src="https://github.com/user-attachments/assets/06e6bc7f-04eb-466d-b409-288fb6fb1bca" />
+
 
 
 ---
