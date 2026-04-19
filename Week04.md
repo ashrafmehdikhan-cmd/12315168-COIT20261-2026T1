@@ -8,7 +8,8 @@ The exported project file is saved inside the **week_04** folder in my repositor
 The network topology for this task includes three hosts, one router, and one switch.  
 Host1 and Host2 are connected to the router through the switch (Subnet 10.1.1.0/24), and Host3 is connected directly to Router1 on a different interface (Subnet 10.1.2.0/24).
 
-<img width="1365" height="720" alt="Network-Topology-12315168" src="https://github.com/user-attachments/assets/5b6df575-a9b7-4d31-8fbb-f667b94f9a39" />
+<img width="1365" height="698" alt="Network-Topology-12315168" src="https://github.com/user-attachments/assets/7923b7cf-1133-4b12-9a4d-496ae8fad6b4" />
+
 
 ## Part 3. IP Address and Routing Table Screenshots
 I configured static IPv4 addresses on all hosts and router interfaces.  
