@@ -13,7 +13,7 @@ The following screenshot shows the full network topology, including:
 - All connections between hosts and switch
 - Project annotations (student name, student ID, date)
 
-**Screenshot:** <img width="1365" height="708" alt="Network-Topology-12315168" src="https://github.com/user-attachments/assets/8d653696-92c8-4ef5-8788-f6d6e3184a8a" />
+**Screenshot:**  <img width="1365" height="707" alt="Network-Topology-12315168" src="https://github.com/user-attachments/assets/8f448823-f89a-4e2d-b70b-d9813809e7a5" />
 
 
 ## Part 3. Screenshots of IP Addresses
